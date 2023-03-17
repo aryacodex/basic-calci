@@ -1,0 +1,3 @@
+# basic-calci
+
+basic calculator 
